@@ -1,8 +1,8 @@
 # Uprising Fix Mod
 
-1- Fix broken skies (Fix game only using blue skies no matter the level)
-2- Fix broken CD Audio (Fix missing music in menus and game)
-3- Attempt to fix mouse by default (If mouse is still broken, see fix in tips below)
+1- Fix broken skies (Fix game only using blue skies no matter the level)  
+2- Fix broken CD Audio (Fix missing music in menus and game)  
+3- Attempt to fix mouse by default (If mouse is still broken, see fix in tips below)  
 
 ## Tips
 
