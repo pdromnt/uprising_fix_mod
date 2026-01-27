@@ -1,8 +1,10 @@
 # Uprising Fix Mod
 
-1- Fix broken skies (Fix game only using blue skies no matter the level)  
-2- Fix broken CD Audio (Fix missing music in menus and game)  
-3- Attempt to fix mouse by default (If mouse is still broken, see fix in tips below)  
+A mod for Uprising Join or Die that uses the dsound.dll to hook into the game's code and inject some fixes:
+
+1- Fix game only using blue skies no matter the level  
+2- Fix broken CD Audio (missing music in menus and game)  
+3- Attempt to fix jittery mouse (if mouse is still broken after, see fix in tips below)  
 
 ## Tips
 
