@@ -43,4 +43,4 @@ Please do, just open a PR. If you open an issue, please detail your issue as muc
 
 ## Credits
 
-(OGG-WINMM)[https://github.com/bangstk/ogg-winmm]: I'm using the original OGG-WINMM dll that comes with the re-releases, just renamed and forcefully patched in so it loads properly.
+[OGG-WINMM](https://github.com/bangstk/ogg-winmm): I'm using the original OGG-WINMM dll that comes with the re-releases, just renamed and forcefully patched in so it loads properly.
