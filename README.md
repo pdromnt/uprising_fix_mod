@@ -10,7 +10,7 @@ A mod for Uprising Join or Die that uses the dsound.dll to hook into the game's 
 
 - Is the game hanging on the loading screen? (Crashing, black screen)
     - **Fix 1**: Try closing down stuff like your RGB control software (SignalRGB, Razer Synapse, GHub, etc)
-    - **Fix 2**: Go into Task Manager, find the `uprising.exe` process, right click, go into `Go to details` and once there right click again and select `Analyze wait chain`. That should clue you into what's hanging the game and what you'll need close in order to start it up.
+    - **Fix 2**: Go into Task Manager, find the `uprising.exe` process, right click, go into `Go to details` and once there right click again and select `Analyze wait chain`. That should clue you into what's hanging the game and what you'll need to close in order to start it up.
 
 - Is your mouse funky?
     - When in the Main Menu, go to your settings and controls options, where you'll see the keybinds, on the top right, set **Acceleration to zero/minimum**, and **sensitivity to the max**.
