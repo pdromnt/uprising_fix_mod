@@ -15,9 +15,9 @@ A mod for Uprising Join or Die that uses the dsound.dll to hook into the game's 
 - Is your mouse funky?
     - When in the Main Menu, go to your settings and controls options, where you'll see the keybinds, on the top right, set **Acceleration to zero/minimum**, and **sensitivity to the max**.
 
-- _dgVoodoo is a better option than nGlide_. You may want to give it a shot.
-
 - Uprising **requires** DirectShow/DirectPlay to be installed, if you didn't get prompted by Windows to install it, go into `Turn Windows features on or off` > `Legacy Components` > Enable `DirectPlay` and reboot your machine when prompted.
+
+- [dinputto8](https://github.com/elishacloud/dinputto8/) is a good fix if you're having weird input bugs (and can maybe restore gamepad functionality, but i haven't tested yet).
 
 ## How to Build
 
