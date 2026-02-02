@@ -39,7 +39,8 @@ Please do, just open a PR. If you open an issue, please detail your issue as muc
 
 ## Also...
 
-**Screw Ziggurat** for not letting the community help and sitting on the IP. Gives us the source so we can fix this game!!!
+**Screw Ziggurat** for not letting the community help and sitting on the IP.  
+Give us the source so we can fix this game!!!
 
 ## Credits
 
